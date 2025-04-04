@@ -1,2 +1,2 @@
 # GyrosGit
-## Elso commitolás
+## első commitolás
