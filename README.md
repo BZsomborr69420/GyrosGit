@@ -1,1 +1,2 @@
 # GyrosGit
+## Elso commitolás
